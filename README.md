@@ -57,10 +57,10 @@ Login_Swift
 ## 🖼️ Screenshots
 
 ### Sign-Up Screen
-![Sign-Up Screen](screenshots/signup.png)
+<img src="screenshots/signup.png" alt="Sign-Up Screen" width="300"/>
 
 ### Login Screen
-![Login Screen](screenshots/login.png)
+<img src="screenshots/login.png" alt="Login Screen" width="300"/>
 
 ## 🧠 MVVM Flow
 
@@ -198,8 +198,7 @@ This project is available under the MIT License.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- GitHub: [@Prabhakaranlpn7](https://github.com/Prabhakaranlpn7)
 
 ## ⭐ Show your support
 
